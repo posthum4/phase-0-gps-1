@@ -7,4 +7,7 @@ code
 block
 ```
 
+
 *More italic text*
+**More Bold Text**
+
