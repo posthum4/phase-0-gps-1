@@ -6,3 +6,5 @@ my
 code
 block
 ```
+
+*More italic text*
